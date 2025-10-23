@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasklistusestate/static/css/main.e6c13ad2.css",
+    "main.js": "/tasklistusestate/static/js/main.7b27a33f.js",
+    "index.html": "/tasklistusestate/index.html",
+    "main.e6c13ad2.css.map": "/tasklistusestate/static/css/main.e6c13ad2.css.map",
+    "main.7b27a33f.js.map": "/tasklistusestate/static/js/main.7b27a33f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7b27a33f.js"
+  ]
+}
